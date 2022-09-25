@@ -1,6 +1,6 @@
 # 内容：PT站点
 # 数量：8条
-DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,t.audiences.me
 DOMAIN-SUFFIX,hddolby.com
 DOMAIN-SUFFIX,1ptba.com
 DOMAIN-SUFFIX,hdarea.co
@@ -8,3 +8,7 @@ DOMAIN-SUFFIX,hd.ai
 DOMAIN-SUFFIX,ptchina.org
 DOMAIN-SUFFIX,ptnic.net
 DOMAIN-SUFFIX,oshen.win
+DOMAIN-SUFFIX,announce.php
+DOMAIN-SUFFIX,audiences.me
+DOMAIN,t.audiences.me
+DOMAIN,audiences.me
