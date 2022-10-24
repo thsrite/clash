@@ -1,5 +1,5 @@
 # 内容：PT站点
-# 数量：增加中
+# 数量：22（增加中）
 
 # 猫站
 DOMAIN-SUFFIX,pterclub.com
@@ -18,14 +18,30 @@ DOMAIN-SUFFIX,itzmx.com
 # 海胆
 DOMAIN-SUFFIX,haidan.video
 # 明教
-
 DOMAIN-SUFFIX,hdpt.xyz
+# 白兔
+DOMAIN,club.hares.top
+# 红豆饭
+DOMAIN-SUFFIX,hdfans.org
+# 海豹
+DOMAIN-SUFFIX,greatposterwall.com
+# HDDolby
 DOMAIN-SUFFIX,hddolby.com
+# 1PTBA
 DOMAIN-SUFFIX,1ptba.com
+# 好大
 DOMAIN-SUFFIX,hdarea.co
+# 海带
 DOMAIN-SUFFIX,hd.ai
+# PTNIC
 DOMAIN-SUFFIX,ptnic.net
+# Oshen
 DOMAIN-SUFFIX,oshen.win
+# PT时间
 DOMAIN-SUFFIX,pttime.org
+#HD VIDEO
 DOMAIN-SUFFIX,hdvideo.one
+# IPT
 DOMAIN-SUFFIX,iptorrents.com
+# CarPT
+DOMAIN-SUFFIX,carpt.net
