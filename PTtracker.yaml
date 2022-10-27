@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,ptchina.org
 # 自由农场
 DOMAIN,pt.0ff.cc
 # 观众
-DOMAIN,t.audiences.me
+DOMAIN-SUFFIX,audiences.me
 # 馒头
 DOMAIN,kp.m-team.cc
 # pt分享站
