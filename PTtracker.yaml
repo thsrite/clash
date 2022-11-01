@@ -1,5 +1,5 @@
 # 内容：PT站点
-# 数量：22（增加中）
+# 数量：24（增加中）
 
 # 彩虹岛
 DOMAIN-SUFFIX,chdbits.co
@@ -49,3 +49,7 @@ DOMAIN-SUFFIX,iptorrents.com
 DOMAIN-SUFFIX,carpt.net
 # 骚包
 DOMAIN-SUFFIX,ptsbao.club
+# 备胎
+DOMAIN-SUFFIX,beitai.pt
+# 憨憨
+DOMAIN-SUFFIX,hhanclub.top
