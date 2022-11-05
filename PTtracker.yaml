@@ -1,5 +1,5 @@
 # 内容：PT站点
-# 数量：29（增加中）
+# 数量：30（增加中）
 
 # 彩虹岛
 DOMAIN-SUFFIX,chdbits.co
@@ -62,4 +62,4 @@ DOMAIN-SUFFIX,monikadesign.uk
 # 某站
 DOMAIN-SUFFIX,springsunday.net
 # 学校
-DOMAIN-SUFFIX,btschool.club
+DOMAIN,pt.btschool.club
