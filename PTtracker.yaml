@@ -1,5 +1,5 @@
 # 内容：PT站点
-# 数量：35（增加中）
+# 数量：36（增加中）
 
 # 彩虹岛
 DOMAIN-SUFFIX,chdbits.co
@@ -72,3 +72,5 @@ DOMAIN-SUFFIX,filept.com
 # 幼儿园
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN,daydream.dmhy.best
+# 月月
+DOMAIN,pt.keepfrds.com
