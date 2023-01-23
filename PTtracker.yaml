@@ -1,8 +1,7 @@
 # 内容：PT站点
 # 数量：45（增加中）
 
-# 彩虹岛
-DOMAIN-SUFFIX,chdbits.co
+
 # 猫站
 DOMAIN-SUFFIX,pterclub.com
 # 梓喵
@@ -30,6 +29,8 @@ DOMAIN-SUFFIX,greatposterwall.com
 DOMAIN-SUFFIX,hddolby.com
 # 1PTBA
 DOMAIN-SUFFIX,1ptba.com
+# 彩虹岛
+DOMAIN-SUFFIX,chdbits.co
 # 好大
 DOMAIN-SUFFIX,hdarea.co
 # 海带
@@ -95,3 +96,7 @@ DOMAIN-SUFFIX,gainbound.net
 DOMAIN-SUFFIX,hdtime.org
 # sharkPT
 DOMAIN-SUFFIX,sharkpt.net
+# 我堡
+DOMAIN-SUFFIX,ourbits.club
+# TTG
+OMAIN-SUFFIX,totheglory.im
