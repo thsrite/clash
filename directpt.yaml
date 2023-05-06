@@ -1,5 +1,4 @@
 # 内容：PT站点
-# 数量：45（增加中）
 
 
 # 猫站
@@ -93,15 +92,14 @@ DOMAIN-SUFFIX,hdchina.org
 DOMAIN-SUFFIX,gainbound.net
 # 时光
 DOMAIN-SUFFIX,hdtime.org
-# sharkPT
-DOMAIN-SUFFIX,sharkpt.net
+# 鲨鱼
+DOMAIN,sharkpt.net
 # 我堡
 DOMAIN-SUFFIX,ourbits.club
 # TTG
 DOMAIN-SUFFIX,totheglory.im
 # 国语视界
 DOMAIN-SUFFIX,cnlang.org
-DOMAIN,vip.sickcat.fun
 # opencd
 DOMAIN-SUFFIX,open.cd
 DOMAIN,open.cd
