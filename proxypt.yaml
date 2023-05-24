@@ -1,4 +1,5 @@
 # 幼儿园
 DOMAIN-SUFFIX,dmhy.org
-# 鲨鱼
-DOMAIN,sharkpt.net
+# TMDB
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
