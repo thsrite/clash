@@ -33,7 +33,8 @@ DOMAIN-SUFFIX,1ptba.com
 # 彩虹岛
 DOMAIN-SUFFIX,chdbits.co
 # 好大
-DOMAIN-SUFFIX,hdarea.co
+DOMAIN,hdarea.club
+DOMAIN-SUFFIX,hdarea.club
 # 海带
 DOMAIN-SUFFIX,hd.ai
 # PTNIC
